@@ -10,8 +10,8 @@ body {
 }
 
 .card {
-    max-width: 500px;
-    width: 100%;
+    max-width: 540px;
+    width: 95%;
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
